@@ -1780,6 +1780,7 @@ export const extraRpcs = {
     rpcs: [
       "https://fuse-rpc.gateway.pokt.network/",
       "https://rpc.fuse.io",
+      "https://fuse.liquify.com",
       {
         url: "https://fuse-mainnet.chainstacklabs.com",
         tracking: "yes",
